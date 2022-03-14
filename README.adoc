@@ -1,3 +1,3 @@
 = GraphAcademy - Building Neo4j Applications with Python
 
-All the code for the course ["Building Neo4j Applications with Python"](https://graphacademy.neo4j.com/courses/app-python/) by Neo4j/GraphAcademy:
+All the code for the course [Building Neo4j Applications with Python](https://graphacademy.neo4j.com/courses/app-python/) by Neo4j/GraphAcademy:
